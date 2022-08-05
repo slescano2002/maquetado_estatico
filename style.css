@@ -19,7 +19,7 @@ body {
 .bg-text {
     color: var(--main-color);
     font-weight: bolder;
-    border: 8px solid rgb(39, 219, 114);
+    border: 8px solid lightsteelblue;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -32,8 +32,13 @@ body {
 
 }
 
+.img {
+    display: block;
+    margin: auto;
+}
+
 .espacio {
-    height: 25px;
+    height: 10px;
 }
 
 .custom-section {
