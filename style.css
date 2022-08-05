@@ -32,7 +32,9 @@ body {
 
 }
 
-
+.espacio {
+    height: 25px;
+}
 
 .custom-section {
     padding-top: 50px;
